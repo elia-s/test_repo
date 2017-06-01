@@ -1,0 +1,14 @@
+Selected varaibles;Category;Methodology Varaible;Description
+CCEin;EMR in;Varchar / Number;Initial referral visit and EEG - Specialist neuropsychological evaluation data (clinical report) - Therapeutic prescriptions
+CCEout;EMR out;Varchar / Number;Specialist neuropsychological evaluation data (clinical report), SDO data, Discharge forms, Therapeutic prescriptions
+GTIS;Medication;Varchar / Number;Therapeutic prescriptions
+FRO;Diagnosis;Varchar / Number;SDO data
+LIS;Laboratory;Varchar / Number;Biochemical analysis, Microbiological analysis, Genetic analysis
+AP;Pathological Anatomy;Date / Var / Varchar / Number;Null
+RIS;Radiology;Var / Varchar / Number;Neuroimaging acquired by Neurology, Radiology, Nuclear Medicine (TC encephalus, RM Encephalus, FDG PET brain, SPECT cerebral flow, SPECT cerebral with Doppler DAT-SCAN) departments
+PACS;Imaging ;Varchar / Number;Imaging, TC Encephalus, RM Encephalus, PET Brain FDG, SPECT Flow Brain, SPECT Brain with Doppler DAT-SCAN
+CISECO;Cardiology;Varchar / Number;Null
+PS;Emergency;Varchar / Number;First aid report with specific data form (i.e.: access reason, diagnosis) - Exam requirements
+Digestive endoscopy;Endoscopy;Varchar / Number;Null
+EEG;EEG;Varchar / Number;Null
+EEG_Video;EEG;Varchar / Number;Null

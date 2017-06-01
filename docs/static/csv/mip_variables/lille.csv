@@ -1,0 +1,141 @@
+Selected varaibles;Category;Methodology Varaible;Description
+date of birth;Demographic;DD/MM/YYYY;Null
+place of birth;Demographic;DD/MM/YYYY;Null
+date of death;Demographic;DD/MM/YYYY;Null
+gender;Demographic;male/female;Null
+Education;Null;according to French education system;Null
+Date of visit*;Administration ;DD/MM/YYYY;Null
+Primary diagnosis*;diagnostics;local codes than can be translated in OMS or ICD9;Null
+Secondary diagnosis*;diagnostics;local codes than can be translated in OMS or ICD9;Null
+Tertiary diagnosis*;diagnostics;local codes than can be translated in OMS or ICD9;Null
+Severity*;diagnostics;No impairment, dementia, impairment without dementia, other;Null
+Comorbidity*;diagnostics;local codes than can be translated in OMS or ICD9;Null
+First signs;diagnostics;DD/MM/YYYY;Null
+Start;Null;progressive, acute, subacute;Null
+First symptoms;diagnostics;memory, walking, speaking, …. Impairment;Null
+Evolution;diagnostics;progressive, acute, subacute;Null
+Family diagnosis;diagnostics;vascular diseases, dementia, ALS, trisomy, PD, Huntington, psychiatry, memory impairment, other;Null
+Neuroleptic*;medications;name of the molecule, to wean, weaned;Null
+Alzheimer's disease medication*;medications;molecule and posology;Null
+Concomitant medication*;medications;type;Null
+MMSE*;neuropsychological;score/30;Null
+MATTIS*;neuropsychological;score by sub items and total score (on 144 or less);Null
+IADL D*;neuropsychological;score /4;Null
+IADL C*;neuropsychological;score/4;Null
+Moca*;neuropsychological;score/30;Null
+CDR*;neuropsychological;Null;Null
+time orientation*;Null;score on 6 (quesiton on the day, the date the moth, the year, the season and the time);Null
+spatial orientation *;Null;score on 5 (county, city, hospital, department and floor);Null
+empans direct order*;Null;Null;Null
+empans indirect order*;Null;Null;Null
+RL/RI 16*;Null;RI imm, RL/RT 1 2 and 3, RL diff;Null
+VAT*;Null;first try, second try, diff;Null
+DPO 80*;Null;score /80;Null
+BEERY figure*;Null;score /30;Null
+VOSP*;Null;form detection test /20, letter /20, cubes /10;Null
+Trail Making Test*;Null;Part A and B time and errors;Null
+Stroop*;Null;Part 1, part 2 and part 3 time, corrected erros and non corrected erros;Null
+WAIS code*;Null;number of signs and standard score;Null
+MT86 (oral comprehension)*;Null;words /5, sentence 1 and 2 /3 and 5 respectively. Total score Link between setance and pictures /388;Null
+MT86 (written comprehension)*;Null;words /5, sentence 1 and 2 /3 and 5 respectively. Total score, Question on the read text /6;Null
+MT86 (written expression)*;Null;words /15, sentence 1 /5, sentence 2 /9, sentence 3 /11, total score;Null
+Calculation (Barcelona test)*;Null;mental calculation (simple socre /9 and bonus /27), written calculation (simple score /6 and bonus);Null
+BREF;Null;score /18;Null
+Dubois 5 words;Null;Null;Null
+Non pharmaceutical treatment*;Null;speech therapy, psychologist, …;Null
+Height*;Null;cm;Null
+Weight*;Null;kg;Null
+IMC*;Null;Null;Null
+glucose*;Null;Null;Null
+urea*;Null;Null;Null
+creatinine*;Null;Null;Null
+sodium*;Null;Null;Null
+potassium*;Null;Null;Null
+cholore*;Null;Null;Null
+plasmatique proteins*;Null;Null;Null
+albumine*;Null;Null;Null
+calcium*;Null;Null;Null
+phosphorus*;Null;Null;Null
+uric acid*;Null;Null;Null
+TGO*;Null;Null;Null
+TGP*;Null;Null;Null
+GGT*;Null;Null;Null
+CPK*;Null;Null;Null
+cholesterol*;Null;Null;Null
+cholesterol HDL*;Null;Null;Null
+cholesterol LDL*;Null;Null;Null
+Cholesterol (HDL/LDL+VLDL)*;Null;Null;Null
+triglycerides*;Null;Null;Null
+prealbumine*;Null;Null;Null
+sedimentaiton speed*;Null;Null;Null
+leucocytes*;Null;Null;Null
+erythrocytes*;Null;Null;Null
+hemoglobin*;Null;Null;Null
+hematocrit*;Null;Null;Null
+VGM*;Null;Null;Null
+TCMH*;Null;Null;Null
+CCMH*;Null;Null;Null
+plaquets*;Null;Null;Null
+mean plasmatic volume*;Null;Null;Null
+neutrophilic polynucleus*;Null;Null;Null
+esoinophilic polynucleus*;Null;Null;Null
+basophilic polynucleus*;Null;Null;Null
+lyphocytes*;Null;Null;Null
+monocytes*;Null;Null;Null
+cephalin*;Null;Null;Null
+quick time*;Null;Null;Null
+prothrombine time*;Null;Null;Null
+fibrinogen*;Null;Null;Null
+TSH*;Null;Null;Null
+vitamin B12*;Null;Null;Null
+vitamin B1 *;Null;Null;Null
+vitamin B6*;Null;Null;Null
+vitamin PP*;Null;Null;Null
+glycated hemoglobin*;Null;Null;Null
+Abeta 42;Null;Null;Null
+Abeta 40;Null;Null;Null
+Tau;Null;Null;Null
+phospho Tau;Null;Null;Null
+IATI;Null;Null;Null
+IRM*;Null;done or not done;Null
+Scanner*;Imaging;done or not done;Null
+SPET*;Imaging;done or not done;Null
+PET*;Imaging;done or not done;Null
+Biomarkers*;Null;done or not done;Null
+Urine dipstick*;Null;postive, negative;Null
+Abdomen radiography*;Null;postive, negative;Null
+thorax radiography*;Null;postive, negative;Null
+ECG*;Null;postive, negative;Null
+vascular check up*;Null;postive, negative;Null
+LP*;Null;postive, negative;Null
+Dat scan*;Null;postive, negative;Null
+Pet amyloide*;Null;postive, negative;Null
+EEG*;Null;postive, negative;Null
+polysomnographie*;Null;postive, negative;Null
+ApoE;Null;Null;Null
+PGRN;Null;Null;Null
+C9ORF72;Null;Null;Null
+Therapeutic trial*;Null;refused, agreed, currently in one;Null
+Longitudinal study*;Null;refused, agreed, currently in one;Null
+post mortem time limit;Null;hours;Null
+hippocampical atrophy;Null;0, mild, moderate, severe;Null
+temporal atrophy;Null;0, mild, moderate, severe;Null
+parietal atrophy;Null;0, mild, moderate, severe;Null
+frontal atrophy;Null;0, mild, moderate, severe;Null
+occipital atrophy;Null;0, mild, moderate, severe;Null
+ischemic cortical lesions;Null;yes no;Null
+hemoragical lesions;Null;yes no;Null
+deap lacuna;Null;yes no;Null
+locus niger pallor;Null;0, mild, moderate, severe;Null
+compatible with AD;Null;yes no;Null
+Braak score;Null;0 I II III IV V VI;Null
+Thal score;Null;from 0 to 5;Null
+lewy bodies;Null;none, brain stem, limbical, neocortical, tonsillar;Null
+NIA score;Null;from 0 to 3 on A B and C;Null
+ayloid angiopathy;Null;none, focal, moderate or severe. Type 1 Type 2 or NA;Null
+cerebrovacular score;Null;score /20;Null
+other pathology;Null;free text;Null
+right Scheltens score;Null;Null;Null
+left Scheltens score;Null;Null;Null
+Deep white matter lesions;Null;Null;Null
+Periventricular lesions;Null;Null;Null

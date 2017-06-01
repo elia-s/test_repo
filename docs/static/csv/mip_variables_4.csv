@@ -1,0 +1,33 @@
+MRI scanner;MRI;--;MRI Scanner field strength
+Site;Provenance;Adni-merge;ADNI Site ID 
+Origin protocol;Provenance;--;Protocol from which subject originated
+Protocol;Provenance;--;Protocol under which data was collected (ADNI1, GO or 2)
+Period time;Visit;--;Period Time between the EXAMDATE (clinical evaluation) and the scan examdate
+Visit number;Visit;;Visit number from the baseline
+Total Visit;Visit;;Total number of visits
+ApoE4;Genetic;adni-merge;Apolipoprotein E (APOE) e4 allele: is the strongest risk factor for Late Onset Alzheimer Disease (LOAD). At least one copy of APOE-e4
+rs3865444_T;Genetic;adni-merge;The less common allele for this SNP, rs3865444(T), is associated with a slight decrease in risk for Alzheimer's disease, on the order of 0.9x (i.e. a 10% decrease in risk).
+rs11136000_T;Genetic;adni-merge;"rs11136000 is a SNP associated with the clusterin CLU gene, which has also been known as the APOJ gene.
+A study of over 5,000 Alzheimer's disease patients (and over 10,000 controls) found a slight protective effect of the (T) allele of this SNP. rs11136000(T) carriers had a slightly decreased risk for Alzheimer's disease, with an odds ratio of 0.84 (CI: 0.8-0.9, p=1.4x10e-9). The association of this SNP and late-onset Alzheimer's disease was replicated over a total of another 1829 cases (and 2576 controls)."
+rs10498633_T;Genetic;adni-merge;A 22-single nucleotide polymorphism associated with Alzheimer's disease risk
+DX status;"--
+–";adni-merge;Subject’s clinical diagnosis
+Conversion;"–
+";adni-merge;Describes the participant's change in cognitive status during the study.
+MMSE;"–
+";adni-merge;Mini-Mental State Examination (MMSE): is a global assessment of cognitive status (Folstein et al., 1975).The MMSE is a fully structured scale that consists of 30 points grouped into seven categories. A perfect score is 30 points, a score of 24 is the recommended, and most frequently used, cutpoint for dementia, a score of 23 or lower indicates dementia
+MOCA;"–
+";adni-merge;Montreal Cognitive Assessment (MoCA). was designed as a rapid screening instrument for mild cognitive dysfunction. It assesses different cognitive domains: a ttention and concentration, executive functions, memory, language, visuoconstructional skills, conceptual thinking, calculations, and orientation. Time to administer the MoCA is approximately 10 minutes. The total possible score is 30 points, a score of 26 or above is considered normal. This test was not applied in ADNI-I
+ADAS 11;"–
+";adni-merge;ADAS Total score-11 items. Classic 70 point total. Excludes Q4 (Delayed Word Recall) and Q14 (Number Cancellation).
+ADAS 13;–;adni-merge;ADAS Total score-13 items. 85 point total including Q4 (Delayed Word Recall) and Q14 (Number Cancellation). The ADAS is a brief cognitive test battery that assesses learning and memory, language production, language comprehension, constructional praxis, ideational praxis, and orientation
+ICV;UCSF Atlas;adni-merge (UCSF);Total Intracranial volume (mm3) 
+WholeBrain;UCSF Atlas;adni-merge (UCSF);Whole Brain volume (mm3)
+Limbic;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Occipital;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Temporal;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Frontal;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Parietal;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Cerebral nuclei;LREN Atlas;lren-nmm-volumes;Gray Matter volume (cm3)
+Insula;LREN Atlas;lren-nmm-volumes;(cm3)
+Diencephalon;LREN Atlas;lren-nmm-volumes;(cm3)

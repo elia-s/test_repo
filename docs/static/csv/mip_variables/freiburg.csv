@@ -1,0 +1,11 @@
+Selected varaibles;Category;Methodology Varaible;Description
+blood pressure;vital signs;Null;microangiopathy, stroke, vascular dementia
+body temperature;vital signs;Null;Null
+breath frequency;vital signs;Null;Null
+heart frequency;vital signs;Null;Null
+​CSF,  ;lab results;Null;Null
+ingredient;​medication ;Null;Null
+stay begin;​patient encounter   ;Null;Null
+stay end;​patient encounter   ;Null;Null
+diagnosis;patient;Null;Null
+age;patient;Null;Null

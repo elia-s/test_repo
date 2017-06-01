@@ -1,0 +1,40 @@
+Selected varaibles;Category;Methodology Varaible;Description
+admission times;Administration ;Null;date+ time
+discharge times;Administration ;Null;date+ time
+admission and discharge ward;Administration ;Null;Null
+death date;Administration ;Null;Null
+age;Demographics;Null;Null
+gender;Demographics;Null;Null
+marital status;Demographics;Null;Null
+comorbidity charlson score;Admission data;Null;based on chronic diagnosis
+functional status norton score;Admission data;Null;Null
+habits;Admission data;Null;smoking, alcohol
+comorbidity;diagnostics;Null;ICD9
+acute diagnosis;diagnostics;Null;ICD9
+SP diagnosis;diagnostics;Null;ICD9
+family diagnosis;diagnostics;Null;parents, simblings
+medication from home;medication;Null;Null
+medication given during admission;medication;Null;Null
+medication recommended on discharge;medication;Null;Null
+symptoms times;CVA data;Null;date+ time
+wake up stroke indication;CVA data;Null;Null
+tpa times;CVA data;Null;date+ time
+tpa contra indication;CVA data;Null;Null
+troponine;Labs;Null;Null
+chemistry;Labs;Null;Null
+POC;Labs;Null;glucose
+hematology;Labs;Null;Null
+blood cultures;Microbiology;Null;date+time of culture, bacterias found 
+urine cultures;Microbiology;Null;Null
+general cultures;Microbiology;Null;Null
+CT/MRI;Imaging;Null;date+time of image
+ECG;Imaging;Null;Null
+Duplex;Imaging;Null;Null
+Other Imaging;Imaging;Null;CTA, MRA
+sensitivity;Nursing;Null;Null
+vital signs (blood pressure, temperature, HR);Nursing;Null;measured during admission
+neurological status;Nursing;Null;consciousness, pupils of the eye, motorical state of the hands and feet
+pain level;Nursing;Null;NRS
+falls risk;Nursing;Null;MORSE score
+mental state;Nursing;Null;cooperative, mental state, follows orders
+lines;Nursing;Null;CVC, urine cathteter
